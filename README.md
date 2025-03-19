@@ -117,4 +117,3 @@ The project successfully builds a predictive model for estimating the number of 
 
 ```
 
-Simply copy and paste this content into your `README.md` file on GitHub.
